@@ -2,7 +2,7 @@
 $host = 'localhost';
 $dbname = 'expense-tracker';
 $username = 'root';
-$password = 'san#2004';
+$password = 'Shlok2704#';
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
